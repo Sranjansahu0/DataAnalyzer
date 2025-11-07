@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://data-analyzer-0esa.onrender.com"
 
 st.title("Data Analyzer Web App")
 
