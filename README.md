@@ -5,4 +5,5 @@ Note Before Run:
 <br>
 Sample CSV file is avaiable in git repo, to download and test. Path - employee_data.csv <br>
 As backend is deployed on Render(Free version), very first time it will take a bit longer, so need to wait for few minute <br>
-Link - https://dataanalyzer-3vtspfxb5z9twdsruxjnuk.streamlit.app/ 
+Link - https://dataanalyzer-sranjansahu0.streamlit.app/![Uploading image.png…]()
+
